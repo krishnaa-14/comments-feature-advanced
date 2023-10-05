@@ -1,0 +1,58 @@
+[
+    {
+        "id" : 1,
+        "commentMsg" : "Hey, You are doing great job ! Keep doing hard work.",
+        "username" : "Krishna vamsi",
+        "userId" : "11",
+        "parent_id" : null,
+        "commentedAt" : "2023-10-05T17:12:30.944Z"
+    },
+    {
+        "id" : 2,
+        "commentMsg" : "Waiting For your blog.",
+        "username" : "Harika Kondeti",
+        "parent_id" : null,
+        "userId" : "12",
+        "commentedAt" : "2023-10-05T17:12:57.258Z"
+    },
+    {
+        "id" : 4,
+        "commentMsg" : "Hi Harika. Can we connect on Linkedin ? ",
+        "username" : "Krishna vamsi",
+        "parent_id" : 2,
+        "userId" : "11",
+        "commentedAt" : "2023-10-05T17:13:13.277Z"
+    },
+    {
+        "id" : 6,
+        "commentMsg" : "Hi Harika. Please Reply? ",
+        "username" : "Krishna vamsi",
+        "parent_id" : 2,
+        "userId" : "11",
+        "commentedAt" : "2023-10-05T17:13:33.944Z"
+    },
+    {
+        "id" : 5,
+        "commentMsg" : "Hey we can have nested comments here ",
+        "username" : "Kavya Bolla",
+        "parent_id" : 4,
+        "userId" : "13",
+        "commentedAt" : "2023-10-05T17:13:47.862Z"
+    },
+    {
+        "id" : 6,
+        "commentMsg" : "Great Blog. Please keep it updated ! ",
+        "username" : "Kavya Bolla",
+        "parent_id" : 4,
+        "userId" : "14",
+        "commentedAt" : "2023-10-05T17:14:00.895Z"
+    },
+    {
+        "id" : 3,
+        "commentMsg" : "Looking forward to work with you",
+        "username" : "Dinesh Nandyala",
+        "parent_id" : null,
+        "userId" : "15",
+        "commentedAt" : "2023-10-05T17:14:16.240Z"
+    }
+]
